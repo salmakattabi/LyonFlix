@@ -11,7 +11,7 @@ We combine urban data — local events, weather conditions, public transport dis
 
 Because let's be honest: a sunny day in Parc de la Tête d'Or and a rainy day with transport disruptions don't exactly give the same vibes. ☀️🌧️
 
-# Objectives :
+# Objectives 
 - Collect and integrate data from multiple sources.
 - Analyze local events, weather conditions, and public transport disruptions.
 - I dentify urban factors that may influence the estimated mood of Lyon.
@@ -19,20 +19,20 @@ Because let's be honest: a sunny day in Parc de la Tête d'Or and a rainy day wi
 - Explore movie recommendations based on the estimated city mood.
 - Evaluate the impact of data availability and quality on the results.
 
-# Business Questions :
+# Business Questions 
 1. What is the overall mood of Lyon at a given time ?
 2. What are the most influential urban factors for estimating Lyon's mood ?
 3. Which movies best reflect Lyon's current mood ?
 4. Which movies do not match Lyon's current mood ?
 5. How does the availability of urban data affect mood estimation and movie recommendations ?
 
-# Meet the Data :
+# Meet the Data 
 Local events : Festivals, cultural activities, and what's happening around town.
 Weather : Sunshine, rain, clouds, and the occasional mood killer.
 Public transport : Service alerts and disruptions that can change the daily vibe.
 Movie Data : Ratings, genres, descriptions, and potential movie-night candidates.
 
-# 🏗️ Behind the Scenes :
+# 🏗️ Behind the Scenes 
 
 No magic here. Just data engineering. 🪄
 
@@ -44,7 +44,7 @@ DIM_EVENT — what's happening in Lyon?
 DIM_MOVIE — the movie universe.
 DIM_TRANSPORT — smooth commute or plot twist?
 
-# Our Tech Stack :
+# Our Tech Stack 
 🐍 **Python** — collecting and preparing the data.
 🐼 **Pandas** — making messy datasets behave.
 🍃 **MongoDB** — storing flexible, semi-structured urban data.
@@ -54,7 +54,7 @@ DIM_TRANSPORT — smooth commute or plot twist?
 📓 **Jupyter Notebook** — experimenting before things get serious.
 🐙 **Git & GitHub** — keeping track of our progress and our mistakes.
 
-# The Plot :
+# The Plot 
 1. Collect the data.
 2. Clean up the mess.
 3. Connect the different sources.
@@ -64,7 +64,7 @@ DIM_TRANSPORT — smooth commute or plot twist?
 7. Explore mood-based movie recommendations.
 8. Evaluate what works, what doesn't, and what the data refuses to tell us.
 
-# The Expected Finale :
+# The Expected Finale 
 By the end of the project, we aim to have:
 - A collection of integrated urban and movie datasets.
 - A structured PostgreSQL database.
