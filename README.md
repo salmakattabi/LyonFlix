@@ -4,7 +4,7 @@
 - 🌧️ Rainy day? 🚇 Metro strike? 🎉 Too many events downtown ?
 - Don't worry, LyonFlix is here to find out whether Lyon is having its main-character moment… or just needs a movie night. 🎭
 
-# What's the idea ?
+## What's the idea ?
 LyonFlix is a data engineering project that connects the dots between city life and cinema.
 
 We combine urban data local events, weather conditions, public transport disruptions with movie information to estimate Lyon's current mood and explore which films match it best.
