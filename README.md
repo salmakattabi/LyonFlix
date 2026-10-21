@@ -7,7 +7,7 @@ Don't worry, LyonFlix is here to find out whether Lyon is having its main-charac
 # What's the idea ?
 LyonFlix is a data engineering project that connects the dots between city life and cinema.
 
-We combine urban data — local events, weather conditions, public transport disruptions — with movie information to estimate Lyon's current mood and explore which films match it best.
+We combine urban data local events, weather conditions, public transport disruptions with movie information to estimate Lyon's current mood and explore which films match it best.
 
 Because let's be honest: a sunny day in Parc de la Tête d'Or and a rainy day with transport disruptions don't exactly give the same vibes. ☀️🌧️
 
@@ -45,14 +45,14 @@ DIM_MOVIE — the movie universe.
 DIM_TRANSPORT — smooth commute or plot twist?
 
 ## 🛠️ Our Tech Stack
-- 🐍 **Python** — collecting and preparing the data.
-- 🐼 **Pandas** — making messy datasets behave.
-- 🍃 **MongoDB** — storing flexible, semi-structured urban data.
-- 🐘 **PostgreSQL** — organizing our data into a structured star schema.
-- 🧮 **SQL & MongoDB Query Language (MQL)** — asking the important questions in two different ways.
-- 🐳 **Docker** — because *"it works on my machine"* isn't a deployment strategy.
-- 📓 **Jupyter Notebook** — experimenting before things get serious.
-- 🐙 **Git & GitHub** — keeping track of our progress and our mistakes.
+- 🐍 **Python** collecting and preparing the data.
+- 🐼 **Pandas** making messy datasets behave.
+- 🍃 **MongoDB** storing flexible, semi-structured urban data.
+- 🐘 **PostgreSQL** organizing our data into a structured star schema.
+- 🧮 **SQL & MongoDB Query Language (MQL)** asking the important questions in two different ways.
+- 🐳 **Docker** because *"it works on my machine"* isn't a deployment strategy.
+- 📓 **Jupyter Notebook** experimenting before things get serious.
+- 🐙 **Git & GitHub** keeping track of our progress and our mistakes.
   
 # The Plot 
 1. Collect the data.
