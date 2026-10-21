@@ -1,8 +1,8 @@
 # LyonFlix: Urban Data-Driven Movie Recommendations
 "*What if Lyon's mood could decide what you watch tonight ? 🍿*"
 
-🌧️ Rainy day? 🚇 Metro strike? 🎉 Too many events downtown ?
-Don't worry, LyonFlix is here to find out whether Lyon is having its main-character moment… or just needs a movie night. 🎭
+- 🌧️ Rainy day? 🚇 Metro strike? 🎉 Too many events downtown ?
+- Don't worry, LyonFlix is here to find out whether Lyon is having its main-character moment… or just needs a movie night. 🎭
 
 # What's the idea ?
 LyonFlix is a data engineering project that connects the dots between city life and cinema.
