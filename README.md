@@ -1,2 +1,2 @@
-# LyonMood: Urban Data-Driven Movie Recommendations
+# LyonFlix: Urban Data-Driven Movie Recommendations
 
